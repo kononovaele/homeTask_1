@@ -17,6 +17,7 @@ def sum_array(my_array):
     sum = 0
     while ind < len(my_array):
         sum = sum + my_array[ind]
+        ind = ind + 1
     return sum
     
 #>>>>>>> var_2
