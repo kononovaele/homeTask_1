@@ -1,5 +1,6 @@
 
 #<<<<<<< HEAD
+#<<<<<<< HEAD
 def max_array(my_array):
 
     max_sum = my_array[0]
@@ -19,3 +20,11 @@ def sum_array(my_array):
     return sum
     
 #>>>>>>> var_2
+
+#======= Слиятние из var_1. Оставляеи вариант из var_1, а этот закомментируем!!!
+#def sum_array(my_array):
+#    sum = 0
+#    for item in my_array:
+#        sum = sum + item
+#    return sum
+#>>>>>>> var_1
